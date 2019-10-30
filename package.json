@@ -45,7 +45,7 @@
     "simple-mock": "^0.8.0",
     "sort-keys": "^3.0.0",
     "standard": "^14.0.2",
-    "tap": "^14.0.0"
+    "tap": "^14.8.3"
   },
   "dependencies": {}
 }
